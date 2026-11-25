@@ -21,7 +21,8 @@ real**.
 
 **Para el cliente del restaurante**
 - Menú con la marca del local (colores, logo y fotos), categorías y productos.
-- Pedido desde la mesa, que llega al instante al panel.
+- Pedido desde la mesa: el QR identifica la mesa y el pedido llega al instante al panel.
+- Modo delivery: el cliente arma su pedido desde el menú y lo envía por WhatsApp al local.
 
 **Para el restaurante**
 - Constructor de menú con arrastrar y soltar.
