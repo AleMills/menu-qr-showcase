@@ -71,6 +71,5 @@ flowchart LR
 
 ## Contacto
 
-<!-- TODO: completar -->
-- LinkedIn: _(agregar link)_
-- Email: _(agregar email)_
+- LinkedIn: [linkedin.com/in/alejofre](https://www.linkedin.com/in/alejofre/)
+- Email: [alejandrojofre949@gmail.com](mailto:alejandrojofre949@gmail.com)
